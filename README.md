@@ -16,7 +16,6 @@ pip install requests
 git clone https://github.com/CRYPTOLORD25/UnbanMethods
 pip install -r requirements.txt
 termux-setup-storage
-pkg install termux-api
 
 ```
 ## To Install in Kali Linux 
