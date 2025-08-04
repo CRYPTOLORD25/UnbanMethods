@@ -1,8 +1,8 @@
 # 📲 WhatsApp Unban Tool by Crypto Lord
 
-This tool was coded 100% by Crypto Lord Himself. It is built for users who want to send real unban requests to WhatsApp through their official support channels. It runs in Termux (Android) or Kali Linux and supports sending both Temporary and Permanent Unban Requests, as well as checking if a WhatsApp number is still active using WhatsApp Business API.
+This tool was coded 100% by Crypto Lord Himself. It is built for users who want to send real unban requests to WhatsApp account. It runs in Termux (Android) or Kali Linux and supports sending both Temporary and Permanent Unban Requests, as well as checking if a WhatsApp number is still active using WhatsApp Business API.
 
-To install on Termux, run:
+# To install on Termux, run:
 
 ```bash
 apt update
@@ -19,10 +19,7 @@ termux-setup-storage
 pkg install termux-api
 
 ```
-Make sure Termux has TTS support:
-termux-tts-engines
-
-To install on Kali Linux, run:
+## To Install in Kali Linux 
 
 ```bash
 sudo apt update
@@ -65,8 +62,8 @@ This tool does not hack WhatsApp. It only submits user-written reports to WhatsA
 
 ## ⚠️ Warnings
 
-We are not responsible for any damage.. 
+We are not responsible for any damage or misused.. 
 
 Build 100% with Love ❤ By Crypto Lord Himself
 
-Tool fully written by Crypto Lord Himself. Respect the legend.
+# Tool fully written by Crypto Lord Himself. Respect the legend.
