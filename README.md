@@ -13,7 +13,7 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install requests
-git clone https://github.com
+git clone https://github.com/CRYPTOLORD25/UnbanMethods
 pip install -r requirements.txt
 termux-setup-storage
 pkg install termux-api
@@ -27,7 +27,7 @@ sudo apt upgrade
 sudo apt install python3 python3-pip
 pip3 install requests
 pip3 install colorama
-git clone https://github.com
+git clone https://github.com/CRYPTOLORD25/UnbanMethods
 pip install -r requirements.txt
 python3 unban.py
 
