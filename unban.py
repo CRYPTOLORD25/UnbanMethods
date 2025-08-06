@@ -130,36 +130,46 @@ while True:
         time.sleep(1)
 
         if unban_type == "Temporary":
-            subject = "Request for Temporary Unban of WhatsApp Number"
+            subject = "Humble Request for Temporary Lift of WhatsApp Account Ban"
             body = f"""
-Dear WhatsApp Support Team,
 
-I am writing to request a temporary unban for my WhatsApp number {phone}. I understand the importance of following WhatsApp's terms of service and apologize if my actions caused the temporary restriction.
-
-Phone Number: {phone}
-Device: Infinix Android 10
-WhatsApp Version: 2.24.x.x
-
-I kindly ask that you review my case and reinstate my account. Thank you for your time and assistance.
-
-Best regards,
-User
-"""
-        else:
-            subject = "Urgent Request for Permanent Unban of WhatsApp Number"
-            body = f"""
 Dear WhatsApp Appeals Team,
 
-I am writing to appeal the permanent ban placed on my WhatsApp number {phone}. I believe this may have been a mistake or misunderstanding, and I am kindly asking for a thorough review of my account status.
+I hope this message finds you well.
+
+I am writing with deep respect and concern regarding the ban placed on my WhatsApp account associated with the phone number {phone}. I understand the importance of maintaining a safe and positive community, and I fully support your efforts.
+
+However, I kindly believe this ban may have resulted from a misunderstanding or an unintentional error. WhatsApp is essential for my daily communication with family, friends, and work, and I am sincerely committed to following all community guidelines moving forward.
 
 Phone Number: {phone}
-Device: Infinix Android 10
-WhatsApp Version: 2.24.x.x
+WhatsApp Version: 2.25.21.82
 
-Please consider lifting this ban, and allow me to continue using your service. I value the platform greatly and will adhere to all community guidelines moving forward.
+I humbly request that you consider temporarily lifting the ban on my account to allow me the opportunity to demonstrate responsible use and compliance with your policies. If any issues remain, I would be grateful for guidance so I can fully address them.
 
-Sincerely,
-User
+Thank you very much for your understanding and consideration. I deeply appreciate your time and support.
+
+With sincere gratitude.
+"""
+        else:
+            subject = "Humble Request for Reconsideration of Permanent Ban on My WhatsApp Account"
+            body = f"""
+            
+Dear WhatsApp Appeals Team,
+
+I hope you are doing well.
+
+I am reaching out with a heavy heart regarding the permanent ban on my WhatsApp account linked to the phone number {phone}. I was deeply saddened to learn about this restriction and genuinely believe there might have been a misunderstanding or an unintentional mistake on my part.
+
+Phone Number: {phone}
+WhatsApp Version: 2.25.21.82
+
+WhatsApp is incredibly important to me—it connects me with my loved ones, friends, and colleagues daily. I truly respect the rules and community guidelines set forth by your team, and if I have unknowingly violated any, I sincerely apologize. Please know that it was never my intention to cause any harm or disruption.
+
+I humbly ask for your kindness and understanding in reviewing my case. If given the chance, I commit to strictly adhering to all policies moving forward and ensuring that my usage aligns fully with your standards.
+
+Thank you very much for your time, patience, and consideration. I would be extremely grateful for the opportunity to regain access to my account.
+
+With sincere gratitude.
 """
 
         try:
